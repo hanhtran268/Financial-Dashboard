@@ -2,6 +2,7 @@ urllib
 requests
 numpy
 pandas
+matplotlib
 matplotlib.pyplot
 plotly.graph_objects
 datetime
